@@ -1,0 +1,6 @@
+fastai
+#shutil
+streamlit
+fastbook 
+scikit-learn
+fastai
