@@ -1,0 +1,2 @@
+Own_model/first_model.pkl filter=lfs diff=lfs merge=lfs -text
+Own_model/second_model.pkl filter=lfs diff=lfs merge=lfs -text
